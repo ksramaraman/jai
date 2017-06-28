@@ -1,0 +1,23 @@
+#include<stdio.h>
+int main()
+{
+	int n;
+	printf("Enter the number the number of value n:\n");
+	scanf("%d",&n);
+
+	for(i=0;i<n;i++)
+	{
+		if(n<12)
+			{
+				printf("hello shashi wait for some time man");
+
+		      }
+		  else
+		  		printf("hello karthik how to do you man?");
+	}
+
+return 0;
+}
+
+
+
